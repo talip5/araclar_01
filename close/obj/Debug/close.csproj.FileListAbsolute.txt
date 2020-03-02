@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\bin\Debug\close.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\bin\Debug\close.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\bin\Debug\close.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\araclar\close\obj\Debug\close.Form2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\close\bin\Debug\close.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\close\obj\Debug\close.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\close\obj\Debug\close.pdb
