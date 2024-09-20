@@ -16,3 +16,13 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\araclar\obj\De
 C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\araclar\obj\Debug\araclar.Form1.resources
 C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\araclar\obj\Debug\araclar.Properties.Resources.resources
 C:\Users\User\Documents\Visual Studio 2015\Projects\Yedek\araclar\araclar\obj\Debug\araclar.csproj.GenerateResource.Cache
+C:\Users\Furka\source\repos\araclar_01\araclar\bin\Debug\araclar.exe.config
+C:\Users\Furka\source\repos\araclar_01\araclar\bin\Debug\araclar.exe
+C:\Users\Furka\source\repos\araclar_01\araclar\bin\Debug\araclar.pdb
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.csproj.AssemblyReference.cache
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.Form1.resources
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.Properties.Resources.resources
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.csproj.GenerateResource.cache
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.exe
+C:\Users\Furka\source\repos\araclar_01\araclar\obj\Debug\araclar.pdb
